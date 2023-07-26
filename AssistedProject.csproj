@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.ControlFlow</StartupObject>
+    <StartupObject>AssistedProject.Primitive_Types_And_Expressions</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
