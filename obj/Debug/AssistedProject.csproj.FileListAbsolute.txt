@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\AssistedProject\obj\Debug\AssistedProject.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\AssistedProject\obj\Debug\AssistedProject.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\AssistedProject\obj\Debug\AssistedProject.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\AssistedProject\bin\Debug\AssistedProject.exe.config
+D:\Raven\Practice Exercise\C#\AssistedProject\bin\Debug\AssistedProject.exe
+D:\Raven\Practice Exercise\C#\AssistedProject\bin\Debug\AssistedProject.pdb
+D:\Raven\Practice Exercise\C#\AssistedProject\obj\Debug\AssistedProject.exe
+D:\Raven\Practice Exercise\C#\AssistedProject\obj\Debug\AssistedProject.pdb
