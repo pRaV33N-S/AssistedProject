@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.Queues</StartupObject>
+    <StartupObject>AssistedProject.Binary_Search</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arrays.cs" />
+    <Compile Include="Binary Search.cs" />
     <Compile Include="ControlFlow.cs" />
     <Compile Include="Doubly Linked List.cs" />
     <Compile Include="DoublyLinkedList.cs" />
