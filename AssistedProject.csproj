@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.Primitive_Types_And_Expressions</StartupObject>
+    <StartupObject>AssistedProject.Arrays</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays.cs" />
     <Compile Include="ControlFlow.cs" />
     <Compile Include="HandlingDates.cs" />
     <Compile Include="Primitive Types And Expressions.cs" />
