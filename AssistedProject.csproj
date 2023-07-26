@@ -51,6 +51,7 @@
     <Compile Include="Primitive Types And Expressions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Working With Files.cs" />
     <Compile Include="Working With Text.cs" />
   </ItemGroup>
   <ItemGroup>
