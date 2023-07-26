@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.ControlFlow</StartupObject>
+    <StartupObject>AssistedProject.Working_With_Text</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,9 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ControlFlow.cs" />
+    <Compile Include="HandlingDates.cs" />
     <Compile Include="Primitive Types And Expressions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Working With Text.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
