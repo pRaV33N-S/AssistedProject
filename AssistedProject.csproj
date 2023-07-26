@@ -52,6 +52,7 @@
     <Compile Include="DoublyLinkedList.cs" />
     <Compile Include="DoublyNode.cs" />
     <Compile Include="HandlingDates.cs" />
+    <Compile Include="Linear Search.cs" />
     <Compile Include="Primitive Types And Expressions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
