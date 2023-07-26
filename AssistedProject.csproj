@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.Singly_Linked_List</StartupObject>
+    <StartupObject>AssistedProject.Doubly_Linked_List</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,9 @@
   <ItemGroup>
     <Compile Include="Arrays.cs" />
     <Compile Include="ControlFlow.cs" />
+    <Compile Include="Doubly Linked List.cs" />
+    <Compile Include="DoublyLinkedList.cs" />
+    <Compile Include="DoublyNode.cs" />
     <Compile Include="HandlingDates.cs" />
     <Compile Include="Primitive Types And Expressions.cs" />
     <Compile Include="Program.cs" />
