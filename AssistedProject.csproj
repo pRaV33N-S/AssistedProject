@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.Working_With_Text</StartupObject>
+    <StartupObject>AssistedProject.HandlingDates</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
