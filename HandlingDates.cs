@@ -31,6 +31,7 @@ namespace AssistedProject
         static void Main(String[] args)
         {
             doApp();
+            Console.ReadKey();
         }
     }
 }
