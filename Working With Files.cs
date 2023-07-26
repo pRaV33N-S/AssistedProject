@@ -12,6 +12,7 @@ namespace AssistedProject
         static void Main(string[] args)
         {
             doApp();
+            Console.ReadKey();
         }
 
         public static void doApp()
@@ -44,7 +45,7 @@ namespace AssistedProject
 
             File.Delete(filename);
             Console.WriteLine(filename + " was deleted");
-
+            
         }
     }
 }
