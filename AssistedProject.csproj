@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.Recursion</StartupObject>
+    <StartupObject>AssistedProject.ShellSort</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -63,6 +63,7 @@
     <Compile Include="Queues.cs" />
     <Compile Include="Recursion.cs" />
     <Compile Include="SelectionSort.cs" />
+    <Compile Include="ShellSort.cs" />
     <Compile Include="Singly Linked List.cs" />
     <Compile Include="SinglyLinkedList.cs" />
     <Compile Include="Stack.cs" />
