@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.QuickSort</StartupObject>
+    <StartupObject>AssistedProject.Structs</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -71,6 +71,7 @@
     <Compile Include="Stack.cs" />
     <Compile Include="StackNode.cs" />
     <Compile Include="Stacks.cs" />
+    <Compile Include="Structs.cs" />
     <Compile Include="Working With Files.cs" />
     <Compile Include="Working With Text.cs" />
   </ItemGroup>
