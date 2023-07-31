@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.Polymorphism</StartupObject>
+    <StartupObject>AssistedProject.Interface</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -57,6 +57,7 @@
     <Compile Include="HandlingDates.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="InsertionSort.cs" />
+    <Compile Include="Interface.cs" />
     <Compile Include="Linear Search.cs" />
     <Compile Include="MergeSort.cs" />
     <Compile Include="Polymorphism.cs" />
