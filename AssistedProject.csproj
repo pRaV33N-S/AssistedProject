@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssistedProject.Inheritance</StartupObject>
+    <StartupObject>AssistedProject.Polymorphism</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -59,6 +59,7 @@
     <Compile Include="InsertionSort.cs" />
     <Compile Include="Linear Search.cs" />
     <Compile Include="MergeSort.cs" />
+    <Compile Include="Polymorphism.cs" />
     <Compile Include="Primitive Types And Expressions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
